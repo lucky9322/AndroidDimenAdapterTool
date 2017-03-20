@@ -1,1 +1,4 @@
 # AndroidDimenAdapterTool
+根据不同分辨率的换算率，由一份dimens换算得到所有的dimens
+
+目前在控制台打印输出
