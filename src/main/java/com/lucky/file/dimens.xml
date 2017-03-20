@@ -1,0 +1,6 @@
+<dimen name="activity_vertical_margin">16dp</dimen>
+<dimen name="style_font_title">24sp</dimen>
+<dimen name="style_font_update">20sp</dimen>
+        <!--widget start-->
+
+<dimen name="style_font_day">20sp</dimen>
